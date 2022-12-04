@@ -4,3 +4,4 @@ GA-PINNs: Generative Adversarial Physics-informed Neural Networks for Solving PD
 $\text { PINN }$
 
 
+<img src="./figures/1.png" width="633" >
